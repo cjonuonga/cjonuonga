@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Caleb
-- 👀 I’m interested in Python API's and data visualization projects
+- 👀 I’m interested in API's and data visualization projects
 - 🌱 I’m currently learning swift/ios development
 - 💞️ I’m looking to collaborate on anything / everything
 - 📫 How to reach me - onuongacaleb@gmail.com
