@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Caleb
-- 👀 I’m interested in API's and data visualization projects
+- 👀 I enjoy working on Machine Learning projects and anything that has to do with databases
 - 🌱 I’m currently learning Machine Learning
 - 💜 I’m looking to collaborate on anything / everything
 - 📫 How to reach me - onuongacaleb@gmail.com
