@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Caleb
-- 👀 I enjoy working on Machine Learning projects and anything that has to do with databases
+- 👀 I enjoy working on Machine Learning projects
 - 🌱 I’m currently learning Machine Learning, AI, Data Science, AWS Cloud, and iOS Development
 - 💜 I’m looking to collaborate on anything / everything
 - 📫 How to reach me - onuongacaleb@gmail.com
